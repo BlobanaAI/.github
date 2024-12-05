@@ -1,13 +1,11 @@
-## Hi there 👋
+🙋‍♀️ Exciting Updates from the Blobana Community!
 
-🙋‍♀️ We are a team of AI based Devs who fell in love with Blobana since original Dev MIA for weeks. Community was a in panic mode so someone with AI knowledge had to lead. 
+We are a passionate team of AI developers who fell in love with Blobana. When the original dev went MIA for weeks, the community was in a panic. To keep things moving forward, we decided to step up and lead!
 
-We have reorganized the codebase into a new GitHub organization for better collaboration and management since multiple devs wanted to work. We have devs from Europe/USA and Australia are working with this atm.
-Secured key infrastructure components:
-1) Domain names
-2) Hosting services
-3) Twitter account
+Here’s what we’ve accomplished so far:
 
-🌈 Contribution guidelines - We will open the Github so community can request the features and it could prioritzed for development. Development is not restricted to us. If you guys want to contribute, just create a new branch and send us the pull request. However, we are protecting main branches since it would trigger CI/CD.
-
+Reorganized Codebase: We’ve set up a new GitHub organization to ensure better collaboration and management as multiple devs from Europe, the USA, and Australia have joined forces.
+Secured Key Infrastructure: Domain names, hosting services, and the Twitter account are now secured to protect and grow the project.
+Open Collaboration: We’re making all our repositories public soon to foster transparency and encourage community contributions.
+Thank you for your patience and support! Together, we’re building something incredible. 🚀
 
